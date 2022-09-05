@@ -1,3 +1,3 @@
 <template>
-    <p>A.vue</p>
+    <p>b-b2.vue</p>
 </template>
