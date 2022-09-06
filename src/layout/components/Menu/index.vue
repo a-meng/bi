@@ -1,3 +1,36 @@
 <template>
-    <p>Menu.vue</p>
+    <div>
+        <ul>
+            <li><s>1</s></li>
+            <li><s>2</s></li>
+            <li><s>3</s></li>
+            <li><s>4</s></li>
+            <li><s>5</s></li>
+            <li><s>6</s></li>
+            <li><s>7</s></li>
+            <li><s>8</s></li>
+            <li><s>9</s></li>
+            <li><s>0</s></li>
+            <li><s>1</s></li>
+            <li><s>2</s></li>
+            <li><s>3</s></li>
+            <li><s>4</s></li>
+            <li><s>5</s></li>
+            <li><s>6</s></li>
+            <li><s>7</s></li>
+            <li><s>8</s></li>
+            <li><s>9</s></li>
+            <li><s>0</s></li>
+            <li><s>1</s></li>
+            <li><s>2</s></li>
+            <li><s>3</s></li>
+            <li><s>4</s></li>
+            <li><s>5</s></li>
+            <li><s>6</s></li>
+            <li><s>7</s></li>
+            <li><s>8</s></li>
+            <li><s>9</s></li>
+            <li><s>0</s></li>
+        </ul>
+    </div>
 </template>
